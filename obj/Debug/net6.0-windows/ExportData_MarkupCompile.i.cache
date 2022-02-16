@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\work\ExportData\obj\Debug\net6.0-windows\
+C:\source\ExportData\obj\Debug\net6.0-windows\
 ExportData
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\work\ExportData\App.xaml
+C:\source\ExportData\App.xaml
 11967805021
 
 51988925069
-197-288635694
+1971781190901
 ExportData.xaml;
 
 False

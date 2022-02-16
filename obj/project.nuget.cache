@@ -1,41 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "Fr6Wm14yA7+n0m7UQDuDhhOQzfhULHUZCnlfVLtEnnwnYP5GZBA8LcIf1iSAJAzJWVPI/0sylDjWiVwpeAvBtQ==",
+  "dgSpecHash": "4lFC+JgY7waCJgS0Xw6hMXPwx8vPZjCsXauF13/yLFnRpiP15taZydneDoJQqmeaiNep6IYbQ4/RXlVbd1C2yg==",
   "success": true,
-  "projectFilePath": "D:\\work\\ExportData\\ExportData.csproj",
+  "projectFilePath": "C:\\source\\ExportData\\ExportData.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
-    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
-    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
-    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\controlzex\\4.2.2\\controlzex.4.2.2.nupkg.sha512",
+    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\mahapps.metro\\2.0.0-alpha0748\\mahapps.metro.2.0.0-alpha0748.nupkg.sha512",
+    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\materialdesigncolors\\2.0.4\\materialdesigncolors.2.0.4.nupkg.sha512",
+    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\materialdesignthemes\\4.3.0\\materialdesignthemes.4.3.0.nupkg.sha512",
+    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\materialdesignthemes.mahapps\\0.2.0\\materialdesignthemes.mahapps.0.2.0.nupkg.sha512",
+    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\system.data.common\\4.3.0\\system.data.common.4.3.0.nupkg.sha512",
     "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
-    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\windowsapicodepack-core\\1.1.2\\windowsapicodepack-core.1.1.2.nupkg.sha512",
     "C:\\Users\\ikumi.tsushima\\.nuget\\packages\\windowsapicodepack-shell\\1.1.1\\windowsapicodepack-shell.1.1.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "パッケージ 'WindowsAPICodePack-Core 1.1.2' はプロジェクトのターゲット フレームワーク 'net6.0-windows7.0' ではなく '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' を使用して復元されました。このパッケージは、使用しているプロジェクトとの完全な互換性がない可能性があります。",
-      "libraryId": "WindowsAPICodePack-Core",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "パッケージ 'WindowsAPICodePack-Shell 1.1.1' はプロジェクトのターゲット フレームワーク 'net6.0-windows7.0' ではなく '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' を使用して復元されました。このパッケージは、使用しているプロジェクトとの完全な互換性がない可能性があります。",
-      "libraryId": "WindowsAPICodePack-Shell",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    }
-  ]
+  "logs": []
 }
