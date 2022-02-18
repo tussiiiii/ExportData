@@ -1,1 +1,0 @@
-SELECT id AS ope_t_id, patient_no FROM ope_t WHERE ope_on >= '$(from_date)' AND ope_on <= '$(to_date)'
